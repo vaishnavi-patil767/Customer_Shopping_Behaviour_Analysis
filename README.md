@@ -17,51 +17,53 @@ Databases: PostgreSQL / MySQL / SQL Server
 SQL: Joins, CTEs, aggregations, window functions
 Visualization: Power BI
 
-🔄 Project Workflow / Steps
- 1.Data Loading
-   Imported the dataset using Python (pandas)
-   Performed initial data inspection and validation
+## 🔄 Project Workflow / Steps
 
-2. Exploratory Data Analysis (EDA)
-Analyzed customer demographics and purchase behavior
-Identified trends in revenue, ratings, discounts, and subscriptions
-Visualized distributions and relationships between variables
+### Data Loading
+- Imported the dataset using **Python (pandas)**
+- Performed initial data inspection and validation
 
-3. Data Cleaning & Feature Engineering
-Handled missing values using appropriate statistical methods
-Standardized column names for consistency
-Removed redundant or unused columns
-Created new features such as:
-Age groups,Purchase frequency
-Customer segments (New, Returning, Loyal)
+### Exploratory Data Analysis (EDA)
+- Analyzed customer demographics and purchase behavior
+- Identified trends in revenue, ratings, discounts, and subscriptions
+- Visualized distributions and relationships between variables
 
-4. SQL Analysis
-Loaded cleaned data into relational databases
-Executed business-focused SQL queries to analyze:
-Revenue by gender and age group
-Discount effectiveness
-Product performance
-Subscription vs non-subscription behavior
+### Data Cleaning & Feature Engineering
+- Handled missing values using appropriate statistical methods
+- Standardized column names for consistency
+- Removed redundant or unused columns
+- Created new features such as:
+  - Age groups
+  - Purchase frequency
+  - Customer segments (New, Returning, Loyal)
 
-5. Dashboard Development
-Built an interactive Power BI dashboard including:
-Revenue and customer KPIs
-Product performance rankings
-Customer segmentation insights
-Subscription analysis
+### SQL Analysis
+- Loaded cleaned data into relational databases
+- Executed business-focused SQL queries to analyze:
+  - Revenue by gender and age group
+  - Discount effectiveness
+  - Product performance
+  - Subscription vs. non-subscription behavior
 
-6. Reporting & Presentation
-Created a structured analytical report summarizing findings
-Designed a professional presentation using Gamma to communicate insights clearly to stakeholders
+### Dashboard Development
+- Built an interactive Power BI dashboard including:
+  - Revenue and customer KPIs
+  - Product performance rankings
+  - Customer segmentation insights
+  - Subscription analysis
+
+### Reporting & Presentation
+- Created a structured analytical report summarizing findings
+- Designed a professional presentation using Gamma to communicate insights clearly to stakeholders
 
 📊 Dashboard Highlights:
-Revenue distribution by gender and age group
-Discount usage and high-value customer identification
-Product ratings and performance comparison
-Subscription vs non-subscription revenue analysis
+- Revenue distribution by gender and age group
+- Discount usage and high-value customer identification
+- Product ratings and performance comparison
+- Subscription vs non-subscription revenue analysis
 
 📈 Key Results & Insights:
-Loyal customers contribute the majority of revenue, indicating strong retention
-Discounts attract high-value customers, not just low spenders
-Several repeat buyers are not subscribed, representing upsell opportunities
-Certain product categories consistently outperform others in ratings and sales
+- Loyal customers contribute the majority of revenue, indicating strong retention
+- Discounts attract high-value customers, not just low spenders
+- Several repeat buyers are not subscribed, representing upsell opportunities
+- Certain product categories consistently outperform others in ratings and sales
