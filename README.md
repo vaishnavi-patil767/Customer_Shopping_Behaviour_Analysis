@@ -18,8 +18,10 @@ SQL: Joins, CTEs, aggregations, window functions
 Visualization: Power BI
 
 🔄 Project Workflow / Steps
-1. Data Loading
+Data Loading
+
 Imported the dataset using Python (pandas)
+
 Performed initial data inspection and validation
 
 2. Exploratory Data Analysis (EDA)
