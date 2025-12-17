@@ -6,16 +6,16 @@ The project demonstrates practical skills in Python, SQL, Power BI, and business
 
 
  📂 Dataset:
-Records: ~3,900 purchase transactions
-Features: Customer demographics, purchase details, discounts, ratings, subscriptions, and locations
-Scope: Multiple product categories and customer segments
+- Records: ~3,900 purchase transactions
+- Features: Customer demographics, purchase details, discounts, ratings, subscriptions, and locations
+- Scope: Multiple product categories and customer segments
 
 
 🛠️ Tools & Technologies
-Python: pandas,(EDA & data cleaning)
-Databases: PostgreSQL / MySQL / SQL Server
-SQL: Joins, CTEs, aggregations, window functions
-Visualization: Power BI
+- Python: pandas,(EDA & data cleaning)
+- Databases: PostgreSQL / MySQL / SQL Server
+- SQL: Joins, CTEs, aggregations, window functions
+- Visualization: Power BI
 
 ## 🔄 Project Workflow / Steps
 
